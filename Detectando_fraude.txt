@@ -1,0 +1,6 @@
+O Note Detectando_fraude, tem anotações jutamente com ajustes nos códigos de libs
+ou fundamentos dos algoratimos atualizados por mim.
+(Verificar o random.seed(1), para completar código antes da Decision Tree)
+
+O 2º é fornecido pela aula, Provavelmente algumas coisas não vão rodar por algumas
+libs estarem desatualizadas.
